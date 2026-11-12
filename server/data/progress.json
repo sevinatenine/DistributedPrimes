@@ -1,0 +1,2338 @@
+{
+    "rect": {
+        "completed": [],
+        "completed_below": 2924,
+        "found": [
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "1",
+                    "1"
+                ],
+                "fills": [
+                    3,
+                    0
+                ],
+                "found_at": 1794271528,
+                "index": 10,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "1",
+                    "1"
+                ],
+                "fills": [
+                    7,
+                    0
+                ],
+                "found_at": 1794271528,
+                "index": 20,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "1",
+                    "2"
+                ],
+                "fills": [
+                    1,
+                    0
+                ],
+                "found_at": 1794271528,
+                "index": 40,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "2",
+                    "1"
+                ],
+                "fills": [
+                    1,
+                    0
+                ],
+                "found_at": 1794271528,
+                "index": 80,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "3"
+                ],
+                "fills": [
+                    1,
+                    8
+                ],
+                "found_at": 1794271528,
+                "index": 328,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "3"
+                ],
+                "fills": [
+                    1,
+                    9
+                ],
+                "found_at": 1794271528,
+                "index": 329,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "3"
+                ],
+                "fills": [
+                    7,
+                    6
+                ],
+                "found_at": 1794271528,
+                "index": 346,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "5",
+                    "5"
+                ],
+                "fills": [
+                    1,
+                    8
+                ],
+                "found_at": 1794271528,
+                "index": 968,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "7"
+                ],
+                "fills": [
+                    1,
+                    6
+                ],
+                "found_at": 1794271529,
+                "index": 1606,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "7",
+                    "3"
+                ],
+                "fills": [
+                    1,
+                    6
+                ],
+                "found_at": 1794271529,
+                "index": 1646,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "7",
+                    "3"
+                ],
+                "fills": [
+                    3,
+                    8
+                ],
+                "found_at": 1794271529,
+                "index": 1658,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "7",
+                    "3"
+                ],
+                "fills": [
+                    9,
+                    2
+                ],
+                "found_at": 1794271529,
+                "index": 1672,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "7",
+                    "3"
+                ],
+                "fills": [
+                    9,
+                    5
+                ],
+                "found_at": 1794271529,
+                "index": 1675,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "9"
+                ],
+                "fills": [
+                    9,
+                    7
+                ],
+                "found_at": 1794271529,
+                "index": 2757,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "9",
+                    "3"
+                ],
+                "fills": [
+                    7,
+                    6
+                ],
+                "found_at": 1794271529,
+                "index": 2786,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "7",
+                    "9"
+                ],
+                "fills": [
+                    3,
+                    1
+                ],
+                "found_at": 1794271529,
+                "index": 3051,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "5",
+                    "11"
+                ],
+                "fills": [
+                    7,
+                    1
+                ],
+                "found_at": 1794271530,
+                "index": 4341,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "11",
+                    "5"
+                ],
+                "fills": [
+                    7,
+                    5
+                ],
+                "found_at": 1794271530,
+                "index": 4385,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "11",
+                    "7"
+                ],
+                "fills": [
+                    1,
+                    4
+                ],
+                "found_at": 1794271531,
+                "index": 4524,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "11",
+                    "7"
+                ],
+                "fills": [
+                    7,
+                    6
+                ],
+                "found_at": 1794271531,
+                "index": 4546,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "13"
+                ],
+                "fills": [
+                    9,
+                    8
+                ],
+                "found_at": 1794271531,
+                "index": 5958,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "13",
+                    "3"
+                ],
+                "fills": [
+                    7,
+                    6
+                ],
+                "found_at": 1794271531,
+                "index": 5986,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "13",
+                    "5"
+                ],
+                "fills": [
+                    7,
+                    6
+                ],
+                "found_at": 1794271531,
+                "index": 6146,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "13",
+                    "5"
+                ],
+                "fills": [
+                    7,
+                    8
+                ],
+                "found_at": 1794271531,
+                "index": 6148,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "13",
+                    "7"
+                ],
+                "fills": [
+                    9,
+                    4
+                ],
+                "found_at": 1794271531,
+                "index": 6314,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "15"
+                ],
+                "fills": [
+                    1,
+                    2
+                ],
+                "found_at": 1794271531,
+                "index": 8002,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "15"
+                ],
+                "fills": [
+                    1,
+                    8
+                ],
+                "found_at": 1794271531,
+                "index": 8008,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "15"
+                ],
+                "fills": [
+                    7,
+                    2
+                ],
+                "found_at": 1794271531,
+                "index": 8022,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "15",
+                    "7"
+                ],
+                "fills": [
+                    7,
+                    5
+                ],
+                "found_at": 1794271531,
+                "index": 8385,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "15",
+                    "7"
+                ],
+                "fills": [
+                    9,
+                    2
+                ],
+                "found_at": 1794271531,
+                "index": 8392,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "9",
+                    "15"
+                ],
+                "fills": [
+                    1,
+                    5
+                ],
+                "found_at": 1794271531,
+                "index": 8485,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "13",
+                    "17"
+                ],
+                "fills": [
+                    7,
+                    3
+                ],
+                "found_at": 1794271532,
+                "index": 11223,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "17",
+                    "13"
+                ],
+                "fills": [
+                    1,
+                    6
+                ],
+                "found_at": 1794271532,
+                "index": 11246,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "17",
+                    "13"
+                ],
+                "fills": [
+                    1,
+                    7
+                ],
+                "found_at": 1794271532,
+                "index": 11247,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "1",
+                    "19"
+                ],
+                "fills": [
+                    1,
+                    0
+                ],
+                "found_at": 1794271532,
+                "index": 12960,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "19",
+                    "1"
+                ],
+                "fills": [
+                    1,
+                    0
+                ],
+                "found_at": 1794271532,
+                "index": 13000,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "19"
+                ],
+                "fills": [
+                    7,
+                    5
+                ],
+                "found_at": 1794271532,
+                "index": 13145,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "7",
+                    "19"
+                ],
+                "fills": [
+                    7,
+                    5
+                ],
+                "found_at": 1794271532,
+                "index": 13465,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "19",
+                    "13"
+                ],
+                "fills": [
+                    1,
+                    8
+                ],
+                "found_at": 1794271532,
+                "index": 13968,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "19",
+                    "13"
+                ],
+                "fills": [
+                    3,
+                    5
+                ],
+                "found_at": 1794271532,
+                "index": 13975,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "21"
+                ],
+                "fills": [
+                    3,
+                    4
+                ],
+                "found_at": 1794271532,
+                "index": 16174,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "21"
+                ],
+                "fills": [
+                    3,
+                    7
+                ],
+                "found_at": 1794271532,
+                "index": 16177,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "21",
+                    "3"
+                ],
+                "fills": [
+                    1,
+                    5
+                ],
+                "found_at": 1794271532,
+                "index": 16205,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "13",
+                    "21"
+                ],
+                "fills": [
+                    3,
+                    4
+                ],
+                "found_at": 1794271532,
+                "index": 16974,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "21",
+                    "13"
+                ],
+                "fills": [
+                    7,
+                    2
+                ],
+                "found_at": 1794271532,
+                "index": 17022,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "21",
+                    "21"
+                ],
+                "fills": [
+                    1,
+                    5
+                ],
+                "found_at": 1794271532,
+                "index": 17605,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "1",
+                    "23"
+                ],
+                "fills": [
+                    1,
+                    0
+                ],
+                "found_at": 1794271533,
+                "index": 19360,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "23",
+                    "1"
+                ],
+                "fills": [
+                    1,
+                    0
+                ],
+                "found_at": 1794271533,
+                "index": 19400,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "23",
+                    "5"
+                ],
+                "fills": [
+                    7,
+                    8
+                ],
+                "found_at": 1794271534,
+                "index": 19748,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "7",
+                    "23"
+                ],
+                "fills": [
+                    7,
+                    5
+                ],
+                "found_at": 1794271534,
+                "index": 19865,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "9",
+                    "25"
+                ],
+                "fills": [
+                    9,
+                    5
+                ],
+                "found_at": 1794271535,
+                "index": 23715,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "11",
+                    "25"
+                ],
+                "fills": [
+                    7,
+                    3
+                ],
+                "found_at": 1794271535,
+                "index": 23863,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "25",
+                    "11"
+                ],
+                "fills": [
+                    7,
+                    8
+                ],
+                "found_at": 1794271535,
+                "index": 23908,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "25",
+                    "11"
+                ],
+                "fills": [
+                    7,
+                    9
+                ],
+                "found_at": 1794271535,
+                "index": 23909,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "15",
+                    "25"
+                ],
+                "fills": [
+                    9,
+                    7
+                ],
+                "found_at": 1794271535,
+                "index": 24197,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "21",
+                    "25"
+                ],
+                "fills": [
+                    7,
+                    5
+                ],
+                "found_at": 1794271536,
+                "index": 24665,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "27"
+                ],
+                "fills": [
+                    3,
+                    8
+                ],
+                "found_at": 1794271537,
+                "index": 27218,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "7",
+                    "27"
+                ],
+                "fills": [
+                    7,
+                    2
+                ],
+                "found_at": 1794271537,
+                "index": 27542,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "7",
+                    "27"
+                ],
+                "fills": [
+                    9,
+                    4
+                ],
+                "found_at": 1794271537,
+                "index": 27554,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "19",
+                    "27"
+                ],
+                "fills": [
+                    9,
+                    2
+                ],
+                "found_at": 1794271538,
+                "index": 28512,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "31",
+                    "3"
+                ],
+                "fills": [
+                    9,
+                    4
+                ],
+                "found_at": 1794271540,
+                "index": 36234,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "31",
+                    "3"
+                ],
+                "fills": [
+                    9,
+                    5
+                ],
+                "found_at": 1794271540,
+                "index": 36235,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "31",
+                    "9"
+                ],
+                "fills": [
+                    3,
+                    4
+                ],
+                "found_at": 1794271540,
+                "index": 36694,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "11",
+                    "31"
+                ],
+                "fills": [
+                    7,
+                    1
+                ],
+                "found_at": 1794271542,
+                "index": 36821,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "31",
+                    "15"
+                ],
+                "fills": [
+                    3,
+                    8
+                ],
+                "found_at": 1794271542,
+                "index": 37178,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "33"
+                ],
+                "fills": [
+                    3,
+                    7
+                ],
+                "found_at": 1794271544,
+                "index": 41137,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "33",
+                    "3"
+                ],
+                "fills": [
+                    3,
+                    8
+                ],
+                "found_at": 1794271544,
+                "index": 41178,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "25",
+                    "33"
+                ],
+                "fills": [
+                    3,
+                    1
+                ],
+                "found_at": 1794271546,
+                "index": 42891,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "25",
+                    "33"
+                ],
+                "fills": [
+                    9,
+                    8
+                ],
+                "found_at": 1794271546,
+                "index": 42918,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "35",
+                    "5"
+                ],
+                "fills": [
+                    7,
+                    9
+                ],
+                "found_at": 1794271547,
+                "index": 46629,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "35",
+                    "7"
+                ],
+                "fills": [
+                    7,
+                    6
+                ],
+                "found_at": 1794271547,
+                "index": 46786,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "37"
+                ],
+                "fills": [
+                    1,
+                    9
+                ],
+                "found_at": 1794271549,
+                "index": 52009,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "37",
+                    "3"
+                ],
+                "fills": [
+                    1,
+                    6
+                ],
+                "found_at": 1794271549,
+                "index": 52046,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "37",
+                    "3"
+                ],
+                "fills": [
+                    9,
+                    8
+                ],
+                "found_at": 1794271549,
+                "index": 52078,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "39",
+                    "3"
+                ],
+                "fills": [
+                    1,
+                    8
+                ],
+                "found_at": 1794271557,
+                "index": 57968,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "39",
+                    "13"
+                ],
+                "fills": [
+                    3,
+                    8
+                ],
+                "found_at": 1794271557,
+                "index": 58778,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "7",
+                    "41"
+                ],
+                "fills": [
+                    1,
+                    7
+                ],
+                "found_at": 1794271560,
+                "index": 64487,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "41",
+                    "7"
+                ],
+                "fills": [
+                    7,
+                    6
+                ],
+                "found_at": 1794271560,
+                "index": 64546,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "43",
+                    "3"
+                ],
+                "fills": [
+                    3,
+                    8
+                ],
+                "found_at": 1794271563,
+                "index": 70778,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "43",
+                    "7"
+                ],
+                "fills": [
+                    3,
+                    2
+                ],
+                "found_at": 1794271563,
+                "index": 71092,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "17",
+                    "43"
+                ],
+                "fills": [
+                    7,
+                    8
+                ],
+                "found_at": 1794271563,
+                "index": 71868,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "43",
+                    "23"
+                ],
+                "fills": [
+                    7,
+                    2
+                ],
+                "found_at": 1794271564,
+                "index": 72382,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "45"
+                ],
+                "fills": [
+                    3,
+                    7
+                ],
+                "found_at": 1794271572,
+                "index": 77617,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "49",
+                    "7"
+                ],
+                "fills": [
+                    7,
+                    8
+                ],
+                "found_at": 1794271586,
+                "index": 92708,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "13",
+                    "49"
+                ],
+                "fills": [
+                    7,
+                    1
+                ],
+                "found_at": 1794271587,
+                "index": 93141,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "49",
+                    "29"
+                ],
+                "fills": [
+                    7,
+                    9
+                ],
+                "found_at": 1794271591,
+                "index": 94469,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "49",
+                    "51"
+                ],
+                "fills": [
+                    3,
+                    5
+                ],
+                "found_at": 1794271618,
+                "index": 103855,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "5",
+                    "53"
+                ],
+                "fills": [
+                    7,
+                    8
+                ],
+                "found_at": 1794271621,
+                "index": 108508,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "55"
+                ],
+                "fills": [
+                    1,
+                    8
+                ],
+                "found_at": 1794271633,
+                "index": 116808,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "11",
+                    "55"
+                ],
+                "fills": [
+                    1,
+                    4
+                ],
+                "found_at": 1794271633,
+                "index": 117444,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "55",
+                    "15"
+                ],
+                "fills": [
+                    3,
+                    7
+                ],
+                "found_at": 1794271634,
+                "index": 117817,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "57",
+                    "3"
+                ],
+                "fills": [
+                    7,
+                    2
+                ],
+                "found_at": 1794271776,
+                "index": 125662,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "57",
+                    "3"
+                ],
+                "fills": [
+                    7,
+                    6
+                ],
+                "found_at": 1794271776,
+                "index": 125666,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "61",
+                    "3"
+                ],
+                "fills": [
+                    9,
+                    8
+                ],
+                "found_at": 1794271865,
+                "index": 144238,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "5",
+                    "61"
+                ],
+                "fills": [
+                    1,
+                    6
+                ],
+                "found_at": 1794271865,
+                "index": 144326,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "19",
+                    "61"
+                ],
+                "fills": [
+                    1,
+                    4
+                ],
+                "found_at": 1794271869,
+                "index": 145444,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "63",
+                    "3"
+                ],
+                "fills": [
+                    7,
+                    9
+                ],
+                "found_at": 1794272091,
+                "index": 153989,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "65",
+                    "19"
+                ],
+                "fills": [
+                    7,
+                    3
+                ],
+                "found_at": 1794272218,
+                "index": 165343,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "65",
+                    "23"
+                ],
+                "fills": [
+                    1,
+                    9
+                ],
+                "found_at": 1794272219,
+                "index": 165649,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "65",
+                    "31"
+                ],
+                "fills": [
+                    7,
+                    1
+                ],
+                "found_at": 1794272221,
+                "index": 166301,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "49",
+                    "65"
+                ],
+                "fills": [
+                    7,
+                    8
+                ],
+                "found_at": 1794272248,
+                "index": 167708,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "73",
+                    "9"
+                ],
+                "fills": [
+                    3,
+                    8
+                ],
+                "found_at": 1794272719,
+                "index": 208058,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "19",
+                    "73"
+                ],
+                "fills": [
+                    9,
+                    1
+                ],
+                "found_at": 1794272721,
+                "index": 208831,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "75",
+                    "3"
+                ],
+                "fills": [
+                    7,
+                    3
+                ],
+                "found_at": 1794272898,
+                "index": 219263,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "75",
+                    "3"
+                ],
+                "fills": [
+                    9,
+                    2
+                ],
+                "found_at": 1794272898,
+                "index": 219272,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "31",
+                    "79"
+                ],
+                "fills": [
+                    9,
+                    1
+                ],
+                "found_at": 1794273179,
+                "index": 245791,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "47",
+                    "79"
+                ],
+                "fills": [
+                    1,
+                    7
+                ],
+                "found_at": 1794273206,
+                "index": 247047,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "67",
+                    "81"
+                ],
+                "fills": [
+                    1,
+                    5
+                ],
+                "found_at": 1794273702,
+                "index": 261285,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "83",
+                    "13"
+                ],
+                "fills": [
+                    1,
+                    4
+                ],
+                "found_at": 1794273731,
+                "index": 269964,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "85",
+                    "5"
+                ],
+                "fills": [
+                    7,
+                    3
+                ],
+                "found_at": 1794273785,
+                "index": 282623,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "35",
+                    "85"
+                ],
+                "fills": [
+                    7,
+                    1
+                ],
+                "found_at": 1794273793,
+                "index": 284981,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "9",
+                    "87"
+                ],
+                "fills": [
+                    3,
+                    7
+                ],
+                "found_at": 1794273909,
+                "index": 296497,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "7",
+                    "89"
+                ],
+                "fills": [
+                    1,
+                    6
+                ],
+                "found_at": 1794273989,
+                "index": 310246,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "89",
+                    "59"
+                ],
+                "fills": [
+                    7,
+                    6
+                ],
+                "found_at": 1794274009,
+                "index": 314466,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "93",
+                    "15"
+                ],
+                "fills": [
+                    7,
+                    5
+                ],
+                "found_at": 1794274175,
+                "index": 339745,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "97"
+                ],
+                "fills": [
+                    1,
+                    8
+                ],
+                "found_at": 1794274366,
+                "index": 368808,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "97"
+                ],
+                "fills": [
+                    1,
+                    9
+                ],
+                "found_at": 1794274366,
+                "index": 368809,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "17",
+                    "97"
+                ],
+                "fills": [
+                    7,
+                    5
+                ],
+                "found_at": 1794274367,
+                "index": 369945,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "69",
+                    "97"
+                ],
+                "fills": [
+                    1,
+                    5
+                ],
+                "found_at": 1794274443,
+                "index": 374085,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "9",
+                    "99"
+                ],
+                "fills": [
+                    3,
+                    4
+                ],
+                "found_at": 1794274572,
+                "index": 384814,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "11",
+                    "101"
+                ],
+                "fills": [
+                    1,
+                    3
+                ],
+                "found_at": 1794274750,
+                "index": 400803,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "101",
+                    "49"
+                ],
+                "fills": [
+                    7,
+                    6
+                ],
+                "found_at": 1794274764,
+                "index": 403906,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "89",
+                    "101"
+                ],
+                "fills": [
+                    7,
+                    5
+                ],
+                "found_at": 1794274851,
+                "index": 407065,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "103",
+                    "15"
+                ],
+                "fills": [
+                    1,
+                    9
+                ],
+                "found_at": 1794274901,
+                "index": 417329,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "107",
+                    "11"
+                ],
+                "fills": [
+                    7,
+                    8
+                ],
+                "found_at": 1794275422,
+                "index": 450308,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "69",
+                    "109"
+                ],
+                "fills": [
+                    1,
+                    9
+                ],
+                "found_at": 1794275713,
+                "index": 472009,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "109",
+                    "97"
+                ],
+                "fills": [
+                    3,
+                    5
+                ],
+                "found_at": 1794275887,
+                "index": 474295,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "115",
+                    "15"
+                ],
+                "fills": [
+                    1,
+                    5
+                ],
+                "found_at": 1794276577,
+                "index": 521005,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "117",
+                    "97"
+                ],
+                "fills": [
+                    9,
+                    2
+                ],
+                "found_at": 1794277322,
+                "index": 545992,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "117",
+                    "111"
+                ],
+                "fills": [
+                    7,
+                    3
+                ],
+                "found_at": 1794277509,
+                "index": 547103,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "119",
+                    "5"
+                ],
+                "fills": [
+                    7,
+                    8
+                ],
+                "found_at": 1794277544,
+                "index": 557348,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "119",
+                    "59"
+                ],
+                "fills": [
+                    7,
+                    4
+                ],
+                "found_at": 1794277583,
+                "index": 561664,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "119",
+                    "67"
+                ],
+                "fills": [
+                    7,
+                    1
+                ],
+                "found_at": 1794277595,
+                "index": 562301,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "119",
+                    "113"
+                ],
+                "fills": [
+                    1,
+                    9
+                ],
+                "found_at": 1794277793,
+                "index": 565969,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "121",
+                    "3"
+                ],
+                "fills": [
+                    7,
+                    9
+                ],
+                "found_at": 1794277848,
+                "index": 576229,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "11",
+                    "121"
+                ],
+                "fills": [
+                    7,
+                    3
+                ],
+                "found_at": 1794277848,
+                "index": 576823,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "121",
+                    "27"
+                ],
+                "fills": [
+                    9,
+                    8
+                ],
+                "found_at": 1794277854,
+                "index": 578158,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "25",
+                    "123"
+                ],
+                "fills": [
+                    7,
+                    9
+                ],
+                "found_at": 1794278485,
+                "index": 597309,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "43",
+                    "127"
+                ],
+                "fills": [
+                    9,
+                    8
+                ],
+                "found_at": 1794280110,
+                "index": 638438,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "127",
+                    "89"
+                ],
+                "fills": [
+                    7,
+                    6
+                ],
+                "found_at": 1794280406,
+                "index": 642146,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "129"
+                ],
+                "fills": [
+                    7,
+                    5
+                ],
+                "found_at": 1794281005,
+                "index": 655545,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "129",
+                    "37"
+                ],
+                "fills": [
+                    3,
+                    1
+                ],
+                "found_at": 1794281022,
+                "index": 658291,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "133",
+                    "3"
+                ],
+                "fills": [
+                    9,
+                    5
+                ],
+                "found_at": 1794282336,
+                "index": 697195,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "7",
+                    "137"
+                ],
+                "fills": [
+                    7,
+                    9
+                ],
+                "found_at": 1794284535,
+                "index": 740349,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "139",
+                    "5"
+                ],
+                "fills": [
+                    7,
+                    2
+                ],
+                "found_at": 1794285266,
+                "index": 762142,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "63",
+                    "141"
+                ],
+                "fills": [
+                    7,
+                    6
+                ],
+                "found_at": 1794286929,
+                "index": 788986,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "145"
+                ],
+                "fills": [
+                    1,
+                    9
+                ],
+                "found_at": 1794289045,
+                "index": 829609,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "3",
+                    "145"
+                ],
+                "fills": [
+                    9,
+                    5
+                ],
+                "found_at": 1794289045,
+                "index": 829635,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "145",
+                    "5"
+                ],
+                "fills": [
+                    7,
+                    2
+                ],
+                "found_at": 1794289045,
+                "index": 829822,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "151",
+                    "3"
+                ],
+                "fills": [
+                    7,
+                    2
+                ],
+                "found_at": 1794293471,
+                "index": 900222,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "15",
+                    "151"
+                ],
+                "fills": [
+                    7,
+                    5
+                ],
+                "found_at": 1794293473,
+                "index": 901145,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "53",
+                    "157"
+                ],
+                "fills": [
+                    7,
+                    5
+                ],
+                "found_at": 1794299610,
+                "index": 977625,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "103",
+                    "159"
+                ],
+                "fills": [
+                    1,
+                    6
+                ],
+                "found_at": 1794302845,
+                "index": 1006726,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "165",
+                    "55"
+                ],
+                "fills": [
+                    7,
+                    5
+                ],
+                "found_at": 1794310251,
+                "index": 1080225,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "165",
+                    "123"
+                ],
+                "fills": [
+                    9,
+                    2
+                ],
+                "found_at": 1794311314,
+                "index": 1085672,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "169",
+                    "3"
+                ],
+                "fills": [
+                    9,
+                    4
+                ],
+                "found_at": 1794314950,
+                "index": 1129194,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "171",
+                    "3"
+                ],
+                "fills": [
+                    7,
+                    2
+                ],
+                "found_at": 1794319609,
+                "index": 1156222,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-rect",
+                "dims": [
+                    "9",
+                    "171"
+                ],
+                "fills": [
+                    1,
+                    9
+                ],
+                "found_at": 1794319609,
+                "index": 1156649,
+                "type": "rectangle"
+            }
+        ],
+        "next_block": 2925,
+        "open": {
+            "2924": {
+                "assigned_at": 1794323588,
+                "client": "simon-rect"
+            }
+        }
+    },
+    "square": {
+        "completed": [],
+        "completed_below": 32,
+        "found": [
+            {
+                "client": "simon-square",
+                "dims": [
+                    "1",
+                    "1"
+                ],
+                "fills": [
+                    3,
+                    0
+                ],
+                "found_at": 1794278518,
+                "index": 10,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-square",
+                "dims": [
+                    "1",
+                    "1"
+                ],
+                "fills": [
+                    7,
+                    0
+                ],
+                "found_at": 1794278518,
+                "index": 20,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-square",
+                "dims": [
+                    "3",
+                    "3"
+                ],
+                "fills": [
+                    1,
+                    8
+                ],
+                "found_at": 1794278518,
+                "index": 88,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-square",
+                "dims": [
+                    "3",
+                    "3"
+                ],
+                "fills": [
+                    1,
+                    9
+                ],
+                "found_at": 1794278518,
+                "index": 89,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-square",
+                "dims": [
+                    "3",
+                    "3"
+                ],
+                "fills": [
+                    7,
+                    6
+                ],
+                "found_at": 1794278518,
+                "index": 106,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-square",
+                "dims": [
+                    "5",
+                    "5"
+                ],
+                "fills": [
+                    1,
+                    8
+                ],
+                "found_at": 1794278518,
+                "index": 168,
+                "type": "rectangle"
+            },
+            {
+                "client": "simon-square",
+                "dims": [
+                    "21",
+                    "21"
+                ],
+                "fills": [
+                    1,
+                    5
+                ],
+                "found_at": 1794278518,
+                "index": 805,
+                "type": "rectangle"
+            }
+        ],
+        "next_block": 33,
+        "open": {
+            "32": {
+                "assigned_at": 1794322257,
+                "client": "simon-square"
+            }
+        }
+    }
+}

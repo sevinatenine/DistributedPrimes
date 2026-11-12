@@ -1,0 +1,26 @@
+{
+    "simon-rect": {
+        "algorithm": "rect",
+        "ip": "::1",
+        "last_seen": 1794323779,
+        "port": 51390,
+        "stats": {
+            "block_started": 1794323588.19134,
+            "blocks_done": 2551,
+            "current_block": 2924,
+            "total_block_seconds": 50850.35210752487
+        }
+    },
+    "simon-square": {
+        "algorithm": "square",
+        "ip": "::1",
+        "last_seen": 1794323774,
+        "port": 51361,
+        "stats": {
+            "block_started": 1794322257.378348,
+            "blocks_done": 34,
+            "current_block": 32,
+            "total_block_seconds": 43260.24393248558
+        }
+    }
+}
