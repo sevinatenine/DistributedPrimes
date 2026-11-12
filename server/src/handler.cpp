@@ -1,15 +1,12 @@
-
 #include <iostream>
 #include <string>
 #include <thread>
 #include <vector>
 #include <chrono>
-#include <format>
 #include <ctime>
 #include <iomanip>
 #include <sstream>
 #include <map>
-#include <string_view>
 #include <ranges>
 
 #include "handler.h"
@@ -28,14 +25,6 @@ string generate_response(const Response& res) {
         res.headers +
         "\r\n" + res.body;
 }
-
-using namespace std;
-#include <string>
-#include <vector>
-#include <map>
-#include <ranges>
-
-using namespace std;
 
 Request parse_request(string req) {
     Request request;
@@ -77,7 +66,7 @@ Request parse_request(string req) {
                 if (colon != string::npos) {
                     string key = buffer.substr(0, colon);
                     for (auto& ch : key) ch = (char)tolower((unsigned char)ch);
-                    
+
                     string value = buffer.substr(colon + 1);
 
                     size_t start = value.find_first_not_of(" \t");
@@ -118,9 +107,22 @@ void handle_client(
     sockaddr_storage client_addr,
     socklen_t client_len
 ) {
-#ifndef _WIN32
+    (void)client_len;
+
+#ifdef SO_NOSIGPIPE   // macOS/BSD
     int yes = 1;
-    setsockopt(client_socket, SOL_SOCKET, SO_NOSIGPIPE, &yes, sizeof(yes));
+    setsockopt(client_socket, SOL_SOCKET, SO_NOSIGPIPE,
+               (const char*)&yes, sizeof(yes));
+#endif
+
+    // Don't let a silent client pin a thread forever.
+#ifdef _WIN32
+    DWORD tv = 5000;
+    setsockopt(client_socket, SOL_SOCKET, SO_RCVTIMEO,
+               (const char*)&tv, sizeof(tv));
+#else
+    timeval tv{5, 0};
+    setsockopt(client_socket, SOL_SOCKET, SO_RCVTIMEO, &tv, sizeof(tv));
 #endif
 
     vector<char> buffer(BUFFER_SIZE);
@@ -146,19 +148,18 @@ void handle_client(
 
     tm local_time{};
 
-    #ifdef _WIN32
-        localtime_s(&local_time, &now);
-    #else
-        localtime_r(&now, &local_time);
-    #endif
+#ifdef _WIN32
+    localtime_s(&local_time, &now);
+#else
+    localtime_r(&now, &local_time);
+#endif
 
     stringstream ss;
     ss << put_time(&local_time, "%Y-%m-%d %H:%M:%S");
 
     string time = ss.str();
 
-    char ip[INET6_ADDRSTRLEN];
-
+    char ip[INET6_ADDRSTRLEN] = {};
     int port = 0;
 
     if (client_addr.ss_family == AF_INET) {
@@ -182,7 +183,7 @@ void handle_client(
     cout << "[Thread " << this_thread::get_id()
         << "] (" << ip << ":" << to_string(port) + ") <" + time + ">: "
         << request.substr(0, request.find("\r\n"))
-        << " - " << res.statusCode <<"\n";
+        << " - " << res.statusCode << "\n";
 
     size_t total_sent = 0;
 
@@ -191,7 +192,7 @@ void handle_client(
             client_socket,
             response.c_str() + total_sent,
             static_cast<int>(response.size() - total_sent),
-            0
+            MSG_NOSIGNAL
         );
 
         if (bytes_sent <= 0) {

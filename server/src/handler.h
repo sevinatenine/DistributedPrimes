@@ -21,6 +21,11 @@
     #define closesocket(s) close(s)
 #endif
 
+// Linux has MSG_NOSIGNAL; macOS/Windows don't (macOS uses SO_NOSIGPIPE instead)
+#ifndef MSG_NOSIGNAL
+    #define MSG_NOSIGNAL 0
+#endif
+
 void handle_client(
     SOCKET client_socket,
     sockaddr_storage client_addr,

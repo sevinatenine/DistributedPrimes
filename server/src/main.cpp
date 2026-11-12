@@ -26,7 +26,7 @@ static void on_signal(int) {
 int main(int argc, char** argv) {
     // ./server --adduser <name>   (creates/updates a login, then exits)
     if (argc == 3 && string(argv[1]) == "--adduser") {
-        auth_load();   // <-- add this, so existing users are kept
+        auth_load();   // keep existing users
 #ifndef _WIN32
         string pw = getpass("Password: ");
 #else
@@ -52,6 +52,9 @@ int main(int argc, char** argv) {
 
     signal(SIGINT, on_signal);
     signal(SIGTERM, on_signal);
+#ifndef _WIN32
+    signal(SIGPIPE, SIG_IGN);   // a dropped client must not kill the server
+#endif
 
     SOCKET server_socket = socket(AF_INET6, SOCK_STREAM, 0);
 

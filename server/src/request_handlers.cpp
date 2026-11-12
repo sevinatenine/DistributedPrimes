@@ -61,7 +61,7 @@ static void address_to_string(const sockaddr_storage& addr, string& ip, int& por
 }
 
 static Response handle_request_inner(const Request& req) {
-    if (req.path_split.empty()) return not_found();
+    if (req.path_split.size() < 2) return not_found();   // path_split[1] is used below
 
     if (req.path_split.size() <= 2 && req.path_split.back().empty()) {
         if (auto body = get_file("./public/index.html")) return {*body, 200, "OK"};
